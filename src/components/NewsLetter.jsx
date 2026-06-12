@@ -6,4 +6,4 @@ function Newsletter() {
   );
 }
 
-export default NewsLetter;
+export default Newsletter;
