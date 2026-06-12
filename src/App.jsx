@@ -5,7 +5,6 @@ import Offer from "./components/Offer";
 import Testimonials from "./components/Testimonials";
 import Newsletter from "./components/Newsletter";
 import Footer from "./components/Footer";
-import "./components/IntroSection";
 import IntroSection from "./components/IntroSection";
 import LeftSection from "./components/LeftSection";
 import RightSection from "./components/RightSection";
